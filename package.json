@@ -1,0 +1,14 @@
+{
+  "name": "afficheurdigital",
+  "version": "1.0.0",
+  "main": "src/start.js",
+  "author": "Leo <leovidal73@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/start.js",
+    "test": "jest --forceExit"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
